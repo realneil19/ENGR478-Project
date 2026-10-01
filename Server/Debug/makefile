@@ -11,6 +11,7 @@ RM := rm -rf
 -include sources.mk
 -include Src/netif/subdir.mk
 -include Src/STM32CubeN6-main/Projects/NUCLEO-N657X0-Q/Applications/FileX/Fx_File_Edit_Standalone/STM32CubeIDE/FSBL/Application/User/Core/subdir.mk
+-include Src/STM32CubeN6-main/Driver/subdir.mk
 -include Src/LwIP/ipv6/subdir.mk
 -include Src/LwIP/ipv4/subdir.mk
 -include Src/LwIP/subdir.mk

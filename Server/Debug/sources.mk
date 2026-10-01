@@ -25,6 +25,7 @@ SUBDIRS := \
 Src/LwIP \
 Src/LwIP/ipv4 \
 Src/LwIP/ipv6 \
+Src/STM32CubeN6-main/Driver \
 Src/STM32CubeN6-main/Projects/NUCLEO-N657X0-Q/Applications/FileX/Fx_File_Edit_Standalone/STM32CubeIDE/FSBL/Application/User/Core \
 Src \
 Src/netif \
